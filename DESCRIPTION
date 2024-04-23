@@ -1,0 +1,17 @@
+Package: SimpleSurveyAnalysis
+Title: Streamline Survey Data Analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person("Joaquin", "Monque", , "joaquin4@usf.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: SimpleSurveyAnalysis is an R package designed to streamline the process of analyzing 
+  survey data. It aims to provide users, especially students and researchers in social sciences, with 
+  straightforward tools for summarizing and visualizing survey results. The package focuses on ease of use, 
+  making basic data analysis accessible to those who may not have extensive programming or statistical backgrounds.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
